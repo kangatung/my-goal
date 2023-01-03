@@ -1,4 +1,4 @@
 My Goal 
 - membuat web 
 - membuat email 
-
+- membuat aplikasi 
